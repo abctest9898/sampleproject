@@ -8,7 +8,8 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
-		system.out.println("hey testing");
+		system.out.println("hi");
+		system.out.println("hello");
 	}
 
 }
